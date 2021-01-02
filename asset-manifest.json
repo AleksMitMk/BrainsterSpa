@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/BrainsterSpa/static/css/main.723dd0ad.chunk.css",
-    "main.js": "/BrainsterSpa/static/js/main.6e714f12.chunk.js",
-    "main.js.map": "/BrainsterSpa/static/js/main.6e714f12.chunk.js.map",
+    "main.js": "/BrainsterSpa/static/js/main.104ed0c6.chunk.js",
+    "main.js.map": "/BrainsterSpa/static/js/main.104ed0c6.chunk.js.map",
     "runtime-main.js": "/BrainsterSpa/static/js/runtime-main.c729fe8c.js",
     "runtime-main.js.map": "/BrainsterSpa/static/js/runtime-main.c729fe8c.js.map",
     "static/css/2.de424728.chunk.css": "/BrainsterSpa/static/css/2.de424728.chunk.css",
-    "static/js/2.3c326880.chunk.js": "/BrainsterSpa/static/js/2.3c326880.chunk.js",
-    "static/js/2.3c326880.chunk.js.map": "/BrainsterSpa/static/js/2.3c326880.chunk.js.map",
+    "static/js/2.efcca067.chunk.js": "/BrainsterSpa/static/js/2.efcca067.chunk.js",
+    "static/js/2.efcca067.chunk.js.map": "/BrainsterSpa/static/js/2.efcca067.chunk.js.map",
     "index.html": "/BrainsterSpa/index.html",
-    "precache-manifest.cd26b04f2af627a7cee2fad45e8f25c6.js": "/BrainsterSpa/precache-manifest.cd26b04f2af627a7cee2fad45e8f25c6.js",
+    "precache-manifest.1e91f493264bcce8c877ac3cd6517c95.js": "/BrainsterSpa/precache-manifest.1e91f493264bcce8c877ac3cd6517c95.js",
     "service-worker.js": "/BrainsterSpa/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/BrainsterSpa/static/css/2.de424728.chunk.css.map",
     "static/css/main.723dd0ad.chunk.css.map": "/BrainsterSpa/static/css/main.723dd0ad.chunk.css.map",
-    "static/js/2.3c326880.chunk.js.LICENSE.txt": "/BrainsterSpa/static/js/2.3c326880.chunk.js.LICENSE.txt",
+    "static/js/2.efcca067.chunk.js.LICENSE.txt": "/BrainsterSpa/static/js/2.efcca067.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/BrainsterSpa/static/media/0.bc5974a7.jpg",
     "static/media/1.jpg": "/BrainsterSpa/static/media/1.0b7bc21d.jpg",
     "static/media/1_xX6Cpskem0SbqQuPZ8R-4g.jpeg": "/BrainsterSpa/static/media/1_xX6Cpskem0SbqQuPZ8R-4g.09b258d8.jpeg",
@@ -71,8 +71,8 @@
   "entrypoints": [
     "static/js/runtime-main.c729fe8c.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.3c326880.chunk.js",
+    "static/js/2.efcca067.chunk.js",
     "static/css/main.723dd0ad.chunk.css",
-    "static/js/main.6e714f12.chunk.js"
+    "static/js/main.104ed0c6.chunk.js"
   ]
 }
